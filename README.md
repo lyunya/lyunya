@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyunya
+- 👋 Hi, I’m @lyunya but my friends call me Leon.
 - 👀 I’m interested in developing react applications that make a difference in people's lives.
 - 🌱 I’m currently learning how to develop an e-commerce web app.
 - 💞️ I’m looking to collaborate on any ideas you're super excited about.
