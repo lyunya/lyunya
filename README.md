@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyunya but my friends call me Leon.
 - 👀 I’m interested in developing web apps that bring people joy.
-- 🌱 I’m currently learning Typescript, Graphql, Nextjs.
+- 🌱 I’m currently learning Typescript, GraphQL, Next.js.
 - 💞️ I’m looking to collaborate on any ideas you're super excited about.
 - 📫 How to reach me - leonmarbukh@gmail.com or connect with me at https://www.linkedin.com/in/leonmarbukh/
 
